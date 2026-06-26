@@ -1,0 +1,5 @@
+{
+    "editor.accessibilitySupport": "off",
+    "editor.codeActionWidget.showHeaders": false,
+    "editor.codeActionWidget.includeNearbyQuickFixes": false
+}
