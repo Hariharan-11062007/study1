@@ -1,6 +1,12 @@
+
 body{
     margin:0px;
     padding:0px;
+    background-image: url("img/hari.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 header{
     width:100%;
@@ -8,5 +14,5 @@ header{
     text-align:center;
 }   
 h2{
-    color:red;
+    color:violet;
 }
